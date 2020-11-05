@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jan Barton\\OneDrive\\Plocha\\testing\\sandboxLinq2\\sandboxLinq\\sandboxLinq.csproj",
+      "projectUniqueName": "C:\\Users\\Jan Barton\\OneDrive\\Plocha\\github\\testRepository\\sandboxLinq\\sandboxLinq\\sandboxLinq.csproj",
       "projectName": "sandboxLinq",
-      "projectPath": "C:\\Users\\Jan Barton\\OneDrive\\Plocha\\testing\\sandboxLinq2\\sandboxLinq\\sandboxLinq.csproj",
+      "projectPath": "C:\\Users\\Jan Barton\\OneDrive\\Plocha\\github\\testRepository\\sandboxLinq\\sandboxLinq\\sandboxLinq.csproj",
       "packagesPath": "C:\\Users\\Jan Barton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jan Barton\\OneDrive\\Plocha\\testing\\sandboxLinq2\\sandboxLinq\\obj\\",
+      "outputPath": "C:\\Users\\Jan Barton\\OneDrive\\Plocha\\github\\testRepository\\sandboxLinq\\sandboxLinq\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
