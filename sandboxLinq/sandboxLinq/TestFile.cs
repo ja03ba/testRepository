@@ -9,6 +9,7 @@ namespace sandboxLinq
         public void NewMethod()
         {
             Console.WriteLine("New method");
+            Console.WriteLine("Some changes");
         }
     }
 }
